@@ -1,0 +1,16 @@
+E:\GitHub\cs_1.17_ValidaCorreto2\bin\Debug\net5.0\cs_1.17_ValidaCorreto2.exe
+E:\GitHub\cs_1.17_ValidaCorreto2\bin\Debug\net5.0\cs_1.17_ValidaCorreto2.deps.json
+E:\GitHub\cs_1.17_ValidaCorreto2\bin\Debug\net5.0\cs_1.17_ValidaCorreto2.runtimeconfig.json
+E:\GitHub\cs_1.17_ValidaCorreto2\bin\Debug\net5.0\cs_1.17_ValidaCorreto2.runtimeconfig.dev.json
+E:\GitHub\cs_1.17_ValidaCorreto2\bin\Debug\net5.0\cs_1.17_ValidaCorreto2.dll
+E:\GitHub\cs_1.17_ValidaCorreto2\bin\Debug\net5.0\ref\cs_1.17_ValidaCorreto2.dll
+E:\GitHub\cs_1.17_ValidaCorreto2\bin\Debug\net5.0\cs_1.17_ValidaCorreto2.pdb
+E:\GitHub\cs_1.17_ValidaCorreto2\obj\Debug\net5.0\cs_1.17_ValidaCorreto2.csprojAssemblyReference.cache
+E:\GitHub\cs_1.17_ValidaCorreto2\obj\Debug\net5.0\cs_1.17_ValidaCorreto2.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\cs_1.17_ValidaCorreto2\obj\Debug\net5.0\cs_1.17_ValidaCorreto2.AssemblyInfoInputs.cache
+E:\GitHub\cs_1.17_ValidaCorreto2\obj\Debug\net5.0\cs_1.17_ValidaCorreto2.AssemblyInfo.cs
+E:\GitHub\cs_1.17_ValidaCorreto2\obj\Debug\net5.0\cs_1.17_ValidaCorreto2.csproj.CoreCompileInputs.cache
+E:\GitHub\cs_1.17_ValidaCorreto2\obj\Debug\net5.0\cs_1.17_ValidaCorreto2.dll
+E:\GitHub\cs_1.17_ValidaCorreto2\obj\Debug\net5.0\ref\cs_1.17_ValidaCorreto2.dll
+E:\GitHub\cs_1.17_ValidaCorreto2\obj\Debug\net5.0\cs_1.17_ValidaCorreto2.pdb
+E:\GitHub\cs_1.17_ValidaCorreto2\obj\Debug\net5.0\cs_1.17_ValidaCorreto2.genruntimeconfig.cache
